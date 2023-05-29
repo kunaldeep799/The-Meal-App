@@ -18,6 +18,6 @@ In addition to the search feature, the app also includes the ability for users t
 
 ## Demo
 
-Check out the live demo of the application at 
+Check out the live demo of the application at https://kunaldeep799.github.io/The-Meal-App/
 
 The Meal DB API (https://www.themealdb.com)
